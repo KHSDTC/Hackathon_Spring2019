@@ -4,27 +4,39 @@ layout: default
 
 # King's College London Health Science DTC
 
-# Python Hackathon Spring session 2019
+# Data Hackathon Spring Session 2019
 
-Everyone is invited to the second King's College London HSDTC Python Hackathon session. The event is intended for everyone with interest in computational and quantitative methods and how they can be applied in solving biological problems.
+Everyone is invited to the second King's College London HSDTC Hackathon session. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
 
-Our idea is to bring researchers from various backgrounds for an evening of biological problem solving using Python.
+Our idea is to bring researchers from various backgrounds for an evening of computational biology problem solving.
 
 We aim to provide a relaxed environment for people to engage, discuss and exchange programming knowledge.
 
+## Theme of the evening
+
+The Hackathon session will be focusing Data Science approaches that can be applied to tackle biological problems. We will focus on three major themes, including **Data Processing**, **Pipeline analyses** and **Machine Learning**.
+
+Our task will consists of investigating a publicly available dataset, selecting statistical models and setting up an analysis pipeline.
+
+## Coding language of the evening
+
+This session will primarly focus on Python-specific approaches to Hackathon challenges. However, you are welcome to use language of your choice. We are always looking to improving ourselves!
+
 ## For whom is this Hackathon intended?
 
-The hackathon is suitable for anyone who regularly uses or wishes to regularly use Python for their research, regardless of their level of expertise with programming.
+The hackathon is suitable for anyone who regularly uses or wishes to regularly use coding for their research, regardless of their level of expertise with programming.
 
 ## Hackathon format
 
-We will divide ourselves in groups of 3-5 people and attempt in solving a set of problems.
+We will divide ourselves in groups of 4-5 people and attempt in solving the evening challenge.
 
-## Coding challanges
+## Hackathon challenges
 
-The Hackathon organisers will provide a set of computational biology problems for you to take on.
+The Hackathon organisers will provide you with a dataset and a set of tasks to tackle during the evening. 
 
 ## What do you need to bring
+
+### Python
 
 - Laptops, power supplies and an inquisitive spirit.
 - Working Python environment (2.x, or 3.x). Such environment could be provided by downloading [Miniconda](https://conda.io/miniconda.html).
@@ -32,15 +44,11 @@ The Hackathon organisers will provide a set of computational biology problems fo
 
 ## When and Where?
 
-- __Date__: 14th of January, 2019.
+- __Date__: 8th of April, 2019.
 - __Where__: Waterloo Campus, James Clerk Maxwell Building B.16.
 - __When__: 5-9 PM
 
-The Hackathon session will start at 6PM, but everyone is wellcome to join earlier from 5PM to have a chat with fellow coders! During the evening we will have refreshements provided by HSDTC.
-
-## Registration
-
-In order to understand the number of people that want to attend the session, we would like to ask you to complete the registration at [SkillsForge booking page](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=61). Although, registration is not mandatory and you are wellcome to join us without it, but it would help us out with organisational matters.
+The doors are open at 5PM  and everyone is wellcome to come and network with fellow coders! The Hackathon session will start at 5:30PM and during the evening we will have food and drinks provided by HSDTC.
 
 ## Want to brush up your Python skills?
 
@@ -49,3 +57,9 @@ There are numerous online Python tutorials, but you can start by taking a look a
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [learnpython.org](https://www.learnpython.org/)
 - [practicepython.org](https://www.practicepython.org/)
+
+Data science-specific python tutorials:
+
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [pandas](https://pandas.pydata.org/)
+- [scipy](https://docs.scipy.org/doc/scipy/reference/)
