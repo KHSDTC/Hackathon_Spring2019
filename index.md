@@ -6,7 +6,7 @@ layout: default
 
 # Data Hackathon Spring Session 2019
 
-Everyone is invited to the second King's College London HSDTC Hackathon session. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
+Everyone is invited to a second King's College London HSDTC Hackathon session. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
 
 Our idea is to bring researchers from various backgrounds for an evening of computational biology problem solving.
 
@@ -14,7 +14,7 @@ We aim to provide a relaxed environment for people to engage, discuss and exchan
 
 ## Theme of the evening
 
-The Hackathon session will be focusing Data Science approaches that can be applied to tackle biological problems. We will focus on three major themes, including **Data Processing**, **Pipeline analyses** and **Machine Learning**.
+The Hackathon session will be focusing Data Science approaches that can be applied to tackle biological problems. We will focus on three major themes, such as **Data Processing**, **Analysis Pipelines** and **Machine Learning**.
 
 Our task will consists of investigating a publicly available dataset, selecting statistical models and setting up an analysis pipeline.
 
@@ -24,11 +24,11 @@ This session will primarly focus on Python-specific approaches to Hackathon chal
 
 ## For whom is this Hackathon intended?
 
-The hackathon is suitable for anyone who regularly uses or wishes to regularly use coding for their research, regardless of their level of expertise with programming.
+The Hackathon is suitable for anyone who regularly uses or wishes to regularly use coding for their research, regardless of their level of expertise with programming.
 
 ## Hackathon format
 
-We will divide ourselves in groups of 4-5 people and attempt in solving the evening challenge.
+We will divide ourselves in groups of 4-5 people and attempt in solving the given evening challenge.
 
 ## Hackathon challenges
 
