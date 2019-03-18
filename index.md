@@ -36,11 +36,16 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 ## What do you need to bring
 
-### Python
-
 - Laptops, power supplies and an inquisitive spirit.
+
+### For Python
+
 - Working Python environment (2.x, or 3.x). Such environment could be provided by downloading [Miniconda](https://conda.io/miniconda.html).
 - A good code editor, such as [Atom](https://atom.io/), [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
+
+### For R
+
+- If you decide to use R during the evening, make sure you have a working R environment and a good code editor, such as [RStudio](https://www.rstudio.com/)
 
 ## When and Where?
 
@@ -58,7 +63,7 @@ There are numerous online Python tutorials, but you can start by taking a look a
 - [learnpython.org](https://www.learnpython.org/)
 - [practicepython.org](https://www.practicepython.org/)
 
-Data science-specific python tutorials:
+Data Science-specific Python tutorials:
 
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [pandas](https://pandas.pydata.org/)
