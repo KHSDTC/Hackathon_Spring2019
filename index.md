@@ -32,7 +32,7 @@ We will divide ourselves in groups of 4-5 people and attempt in solving the give
 
 ## Hackathon challenges
 
-The Hackathon organisers will provide you with a dataset and a set of tasks to tackle during the evening. There will be a group of experienced coders to help you out with the challenge. 
+The Hackathon organisers will provide you with a dataset and a set of tasks to tackle during the evening. There will be a group of experienced coders and bioinformaticians to help you out with the challenge. 
 
 ## What do you need to bring
 
