@@ -45,7 +45,7 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 ### For R
 
-- If you decide to use R during the evening, make sure you have a working R environment and a good code editor, such as [RStudio](https://www.rstudio.com/)
+- If you decide to use R during the evening, make sure you have a working R environment and a good code editor, such as [RStudio](https://www.rstudio.com/).
 
 ## When and Where?
 
