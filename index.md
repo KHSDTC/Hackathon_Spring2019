@@ -42,7 +42,7 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 - Working Python environment (3.x) that could be provided by downloading [Anaconda](https://www.anaconda.com/distribution/).
 - Working [Jupyter Notebook](https://jupyter.org/index.html) that is [already shipped using Anaconda](https://jupyter.org/install).
-- A code editor of your liking, for instance [Atom](https://atom.io/), [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
+- Code editor of your liking, for instance [Atom](https://atom.io/), [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
 
 ### For R
 
@@ -52,7 +52,7 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 - __Date__: 8th of April, 2019.
 - __Where__: Waterloo Campus, James Clerk Maxwell Building B.16.
-- __When__: 5-9 PM
+- __When__: 5-9 PM.
 
 The doors are open at 5PM  and everyone is wellcome to come and network with fellow coders! The Hackathon session will start at 5:30PM and during the evening we will have food and drinks provided by HSDTC.
 
