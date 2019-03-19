@@ -42,7 +42,7 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 - Working Python environment (3.x). Such environment could be provided by downloading [Anaconda](https://www.anaconda.com/distribution/).
 - Working [Jupyter Notebook](https://jupyter.org/index.html) that is [already shipped using Anaconda](https://jupyter.org/install).
-- A good code editor of your liking, such as [Atom](https://atom.io/), [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
+- A code editor of your liking, such as [Atom](https://atom.io/), [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
 
 ### For R
 
