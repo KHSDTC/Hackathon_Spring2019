@@ -20,7 +20,7 @@ Our task will consists of investigating a publicly available dataset, selecting 
 
 ## Coding language of the evening
 
-This session will primarly focus on Python-specific approaches to Hackathon challenges. However, you are welcome to use language of your choice. We are always looking to improving ourselves!
+This session will primarly focus on Python-specific approaches to Hackathon challenges. However, you are welcome to use any language of your choice. We are always looking to improving ourselves!
 
 ## For whom is this Hackathon intended?
 
