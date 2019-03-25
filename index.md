@@ -24,7 +24,7 @@ This session will primarly focus on Python-specific approaches to Hackathon chal
 
 ## For whom is this Hackathon intended?
 
-The Hackathon is suitable for anyone who regularly uses or wishes to regularly use coding for their research, regardless of their level of expertise with programming.
+The Hackathon is suitable for anyone at King's, including undergraduate and postgraduate students, Post-Docs and PIs, who regularly use or wish to regularly use coding for their research, regardless of their level of expertise with programming.
 
 ## Hackathon format
 
@@ -55,6 +55,10 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 - __When__: 5-9 PM.
 
 The doors are open at 5PM  and everyone is wellcome to come and network with fellow coders! The Hackathon session will start at 5:30PM and during the evening we will have food and drinks provided by HSDTC.
+
+## Registration
+
+To register for the Data Hackathon, please follow to King's website on [Skills Forge](https://tinyurl.com/y4q9ooz8).
 
 ## Want to brush up your Python skills?
 
